@@ -1,2 +1,2 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/GvMhxq6pOG/0", true))(
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8s963V1uXL/0", true))()
